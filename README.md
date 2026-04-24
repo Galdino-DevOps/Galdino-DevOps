@@ -22,7 +22,8 @@ Especialista em Segurança Cibernética e Engenheiro de Software com foco em inf
 * **Pós-graduação em Cyber Security** (Concluída em 2025)
 * **Análise Forense de Redes** (Clavis Academy)
 * **Graduado em Engenharia de Software** (Cruzeiro do Sul)
-* **Técnico de Segurança do Trabalho**
+* **Técnico em Redes de Computadores**
+* **Técnico em Segurança do Trabalho**
 
 ---
 
