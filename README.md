@@ -30,7 +30,7 @@ Especialista em Segurança Cibernética e Engenheiro de Software com foco em inf
 * **Graduado em Engenharia de Software** (Cruzeiro do Sul)
 * **Técnico em Redes de Computadores** (Cruzeiro do Sul)
 * **Técnico em Segurança do Trabalho** (IFF)
-* * **Fortinet Certified Associate in Cybersecurity (FortiGate 7.6 Operator)** - Concluído em 2026
+* **Fortinet Certified Associate in Cybersecurity (FortiGate 7.6 Operator)** - Concluído em 2026
 
 ---
 
