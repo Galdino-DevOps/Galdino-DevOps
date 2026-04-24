@@ -33,4 +33,4 @@ Nas horas vagas, você me encontra praticando **Spearfishing** (caça submarina)
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-galdino-da-silva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-galdino78/)
