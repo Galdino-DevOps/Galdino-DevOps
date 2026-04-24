@@ -22,6 +22,8 @@ Especialista em Segurança Cibernética e Engenheiro de Software com foco em inf
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galdino-DevOps&layout=compact&theme=dracula" />
 </p>
 
+
+
 ### 🎓 Certificações & Formação
 * **Pós-graduação em Cyber Security** (Concluída em 2025)
 * **Análise Forense de Redes** (Clavis Academy)
