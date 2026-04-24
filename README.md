@@ -1,9 +1,14 @@
-<div align="center">
-
 # 👨‍💻 Edson Galdino
 **Software Engineer | Information Security Specialist | Network Technician**
 
-</div>
+Especialista em Segurança Cibernética e Engenheiro de Software com foco em infraestrutura crítica, monitoramento avançado e defesa de redes. Atualmente atuando como Analista de NOC, garantindo a estabilidade e segurança de ambientes complexos.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Ferramentas e Tecnologias |
+| :--- | :--- |
 
 <p align="center">
 Especialista em Segurança Cibernética e Engenheiro de Software com foco em infraestrutura crítica, monitoramento avançado e defesa de redes. Atualmente atuando como Analista de NOC, garantindo a estabilidade e segurança de ambientes complexos.
