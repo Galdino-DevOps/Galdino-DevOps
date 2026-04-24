@@ -15,6 +15,11 @@ Especialista em Segurança Cibernética e Engenheiro de Software com foco em inf
 | **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
+### 📊 Estatísticas do GitHub
+
+![Estatísticas de Edson](https://github-readme-stats.vercel.app/api?username=Galdino-DevOps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Galdino-DevOps&layout=compact&theme=dracula)
+
 
 ### 🎓 Certificações & Formação
 * **Pós-graduação em Cyber Security** (Concluída em 2025)
