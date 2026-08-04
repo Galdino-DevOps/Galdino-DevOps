@@ -1,4 +1,4 @@
-# 👨‍💻 Edson Galdino
+# 👨‍💻 Edson Galdino da Siva
 **Software Engineer | Information Security Specialist | Network Technician**
 
 Especialista em Segurança Cibernética e Engenheiro de Software com foco em infraestrutura crítica, monitoramento avançado e defesa de redes. Atualmente atuando como Analista de NOC, garantindo a estabilidade e segurança de ambientes complexos.
